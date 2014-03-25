@@ -1,4 +1,6 @@
 3DS_save_renamer
 ================
 
-automatic renaming of [media_id].sav files to correspond with CCI files.
+Automatic renaming of [media_id].sav files to correspond with CCI files.
+
+(Was bored and wanted to be ready to go once (if) I ever get multirom capability.)
